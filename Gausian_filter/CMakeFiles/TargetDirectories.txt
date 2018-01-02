@@ -1,0 +1,3 @@
+/home/dragonslayer/pp3/CMakeFiles/edit_cache.dir
+/home/dragonslayer/pp3/CMakeFiles/rebuild_cache.dir
+/home/dragonslayer/pp3/CMakeFiles/pp3.dir
